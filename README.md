@@ -1,8 +1,20 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Project Title
 
-Currently, two official plugins are available:
+Birthday Reminder web app which shows details of user as Age,name,and DOB. We have created it using React(useState)Concepts.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Live-Link
+
+https://birthday-reminder-abhi.netlify.app/
+
+
+## DEMO(Snapshot)
+![BirthdayReminder](https://user-images.githubusercontent.com/48747218/184639648-5fc57c0a-bd0c-497d-b992-0ae0503b3bd7.png)
+
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm run build
